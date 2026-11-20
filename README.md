@@ -1,5 +1,4 @@
 # claude-skills
-Claude skills for LinkedIn, job search, GTM, and writing — built by a practitioner, organized to reuse.
 
 A personal library of Claude skills built for strategy, GTM, job search, and LinkedIn — by a practitioner, for a practitioner.
 
